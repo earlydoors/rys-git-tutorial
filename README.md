@@ -1,1 +1,0 @@
-# rys-git-tutorial
